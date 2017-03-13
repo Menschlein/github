@@ -1,2 +1,3 @@
 # github
-What I found in Guthub
+What I found in Github ...
+Try to explain my experiences with this Github.
